@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class HomeFooter extends StatelessWidget {
   const HomeFooter({super.key});
 
-  static const Color background = Color(0xFF07152D);
+  static const Color background = Color(0xFF00000);
   static const Color primary = Color(0xFF03045E);
   static const Color accent = Color(0xFF0096C7);
   static const Color secondaryText = Color(0xFFB8C4D6);
